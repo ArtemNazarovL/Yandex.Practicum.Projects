@@ -2,6 +2,11 @@
 
 ## For this study, the bank provided data - statistics on the solvency of customers. It is necessary to find out whether the number of children and marital status affect the fact of timely repayment of the loan. It is expected that the results of this study will be included in the banking scoring model.
 
+### Fields of activity: banking, lending.
+### Activities: Data Analyst, financial analyst.
+### Skills and tools: Python, Pandas, data preprocessing.
+### Objectives of the project: to investigate the influence of the marital status and the number of children of the client on the fact of repayment of the loan on time, based on available statistics.
+
 ## Study plan:
 
 Step 1. Examine the presented data.
