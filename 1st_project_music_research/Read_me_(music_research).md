@@ -1,7 +1,12 @@
 # Research of musical preferences depending on the day of the week and time of day in Moscow and St. Petersburg. 
 ## What is the difference between the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week?
-### Research plan:
 
+### Fields of activity: internet services, streaming service.
+### Activities: Data Analyst.
+### Skills and tools: Python, Pandas.
+### Project objectives: select the preferences of Yandex.Music users in two cities: Moscow and St. Petersburg.
+
+### Research plan:
 1. Receiving and initial acquaintance with the data;
 2. Data processing: removing duplicates and solving problems related to column names and gaps.
 3. Data analysis. Answers to the questions of this study:
@@ -15,6 +20,12 @@
 
 # Исследование музыкальных предпочтений в зависимости от дня недели и времени суток в Москве и Санкт-Петербурге.
 ## Чем отличается музыка, которая играет по дороге на работу в понедельник утром от той, что играет в среду или в конце рабочей недели?
+
+### Сферы деятельности: интерент сервисы, стриминговый сервис.
+### Направления деятельности: Data Analyst.
+### Навыки и инструменты: Python, Pandas.
+### Задачи проекта: сравнить предпочтения пользователей Яндекс.Музыки в двух городах: Москва и Санкт-Петербург.
+
 ### План исследования:
 1. Получение и первичное ознакомление с данными;
 2. Преобработка данных: удаление дубликатов и решение проблем связанных с названиями столбцов и пропусками;
