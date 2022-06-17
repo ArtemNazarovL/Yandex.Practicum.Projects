@@ -18,7 +18,7 @@ Step 3. Answering questions.
 >Is there a relationship between the number of children and loan repayment on time?\
 >Is there a relationship between marital status and loan repayment on time?\
 >Is there a relationship between the level of income and repayment of the loan on time?\
->How do different purposes of a loan affect its repayment on time?\
+>How do different purposes of a loan affect its repayment on time?
 
 Step 4. Conclusion.
 
@@ -42,6 +42,6 @@ Step 4. Conclusion.
 >Есть ли зависимость между количеством детей и возвратом кредита в срок?\
 >Есть ли зависимость между семейным положением и возвратом кредита в срок?\
 >Есть ли зависимость между уровнем дохода и возвратом кредита в срок?\
->Как разные цели кредита влияют на его возврат в срок?\
+>Как разные цели кредита влияют на его возврат в срок?
 
 Шаг 4. Вывод.
