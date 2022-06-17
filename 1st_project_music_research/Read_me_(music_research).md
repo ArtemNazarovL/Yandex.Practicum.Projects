@@ -8,7 +8,7 @@
 
 > Do people listen to music differently in different cities?\
 > Do people listen to different music on Monday morning and Friday night?\
-> Residents of Moscow and St. Petersburg listen to different music?\
+> Residents of Moscow and St. Petersburg listen to different music?
 
 4. Summary.
 
@@ -22,6 +22,6 @@
 
 > В разных городах музыку слушают по-разному?\
 > Люди слушают разную музыку в понедельник утром и в пятницу вечером?\
-> Жители Москвы и Санкт-Петербурга слушают разную музыку?\
+> Жители Москвы и Санкт-Петербурга слушают разную музыку?
 
 4. Подведение итогов.
