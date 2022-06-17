@@ -3,8 +3,11 @@
 ## For this study, the bank provided data - statistics on the solvency of customers. It is necessary to find out whether the number of children and marital status affect the fact of timely repayment of the loan. It is expected that the results of this study will be included in the banking scoring model.
 
 ## Study plan:
+
 Step 1. Examine the presented data.
+
 Step 2. Data preprocessing.
+
 Step 3. Answering questions.
 
 >Is there a relationship between the number of children and loan repayment on time?\
@@ -19,8 +22,11 @@ Step 4. Conclusion.
 ## Для этого исследования банк представил данные - статистику платёжеспособности клиентов. Необходимо выяснить влияют ли количество детей и семейное положение на факт своевременнего погашения кредита. Предпологается, что результаты данного исследования будут включены в модель банковского скоринга.
 
 ## План исследования:
+
 Шаг 1. Изучение представленных данных.
+
 Шаг 2. Предобработка данных.
+
 Шаг 3. Ответы на вопросы.
 
 >Есть ли зависимость между количеством детей и возвратом кредита в срок?\
