@@ -6,9 +6,9 @@ fraudulent activity.
 For each observation, two types of data are available: the first is entered by the user, the second is obtained automatically from cartographic data (distance to 
 the center, airport, parks or water bodies).
 
-Fields of activity: Internet services, ad platforms.
-Activities: marketing analyst, fraud analyst, data analyst.
-Skills and tools: Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing.
+Fields of activity: Internet services, ad platforms.\
+Activities: marketing analyst, fraud analyst, data analyst.\
+Skills and tools: Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing.\
 Project objectives: to determine the market value of real estate objects and typical parameters of apartments based on Yandex.Realty data.
 
 ## Research plan.
@@ -34,9 +34,9 @@ Project objectives: to determine the market value of real estate objects and typ
 Для каждого наблюдения доступны два вида данных: первый внесен пользователем, второй - получен на основе картографических данных автоматически (растояние до центр, 
 аэропорта, парков или водоемов).
 
-Сферы деятельности: интернет-сервисы, площадки объявлений.
-Направления деятельности: маркетинг аналитик, fraud-аналитик, data analyst.
-Навыки и инструменты: Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных.
+Сферы деятельности: интернет-сервисы, площадки объявлений.\
+Направления деятельности: маркетинг аналитик, fraud-аналитик, data analyst.\
+Навыки и инструменты: Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных.\
 Задачи проекта: определить рыночную стоимость объектов недвижимости и типичные параметры квартир на основе данных Яндекс.Недвижимость.
 
 ## План исследования.
