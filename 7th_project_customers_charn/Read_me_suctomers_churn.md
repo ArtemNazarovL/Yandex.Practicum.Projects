@@ -4,7 +4,6 @@ Every month, in small quantities, customers leave the bank of the bank. After an
 It is necessary to build a model based on historical data that can predict whether the client will leave. Metric used: F1-measure to be brought to a minimum
 up to 0.59. It is also necessary to plot the AUC-ROC curve and compare it with the F-1 measure.
 
-## Fields of activity: telecom.
 - Fields of activity: business, investments, banking, lending.
 - Direction of activity: Machine learning, classification.
 - Skills and tools: Python, Pandas, Scikit-learn.
