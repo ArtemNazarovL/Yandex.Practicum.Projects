@@ -22,6 +22,18 @@ Step 3. Answering questions.
 
 Step 4. Conclusion.
 
+### Result of work:
+Borrowers can be described by variables, and variables can tell whether the debt will be repaid. In this document, we have shown how some parameters affect the return of a loan. A better result and larger deviations from the average loan recovery rate can probably be achieved by combining variables.
+In the meantime, we know that credits are better returned by people who:
+- are or have been married;
+- do not have children;
+- earn less than 60,000 or more than 500,000;
+- take a loan for real estate or a wedding.
+However, no critical deviations by groups were identified.
+
+### Project status:
+Completed.
+
 # Исследование влияния семейного положения и количества детей клиентов банка на своевременный возврат кредита.
 
 ## Для этого исследования банк представил данные - статистику платёжеспособности клиентов. Необходимо выяснить влияют ли количество детей и семейное положение на факт своевременнего погашения кредита. Предпологается, что результаты данного исследования будут включены в модель банковского скоринга.
@@ -45,3 +57,15 @@ Step 4. Conclusion.
 >Как разные цели кредита влияют на его возврат в срок?
 
 Шаг 4. Вывод.
+
+### Результат работы:
+Заемщиков можно описать переменными, а переменные могут подсказать будет ли долг возвращен. В этом документе мы показали как некоторые параметры влияют на возврат кредита. Лучшего результата и больших отклонений от среднего процента возвращаймости кредита, возможно, можно добиться комбинированием перменных. 
+А пока нам ивзестно, что крдиты лучше возвращают люди, которые:
+- состоят или состояли в браке;
+- не имеют детей;
+- зарабатывают меньше 60000 либо больше 500000;
+- берут кредит на недвидимость или свадбу.
+Однако какх критичных отколнений по группам не выявленно.
+
+### Статус проекта:
+Завершен.
