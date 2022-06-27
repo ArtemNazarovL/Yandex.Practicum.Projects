@@ -33,7 +33,9 @@ This directory is a portfolio of projects that I completed during my training at
 10. [Protection of data of clients of the insurance company.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/10th_project_protection_personal_data)
 - The project is a development of data encryption method.
 - Stack: Python, Pandas, Numpy, Scikit-learn.
-11. Building a model for determining the cost of a car.
+11. [Building a model for determining the cost of a car.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/11th_project_auto)
+- The project is the development of a model for predicting the cost of cars according to their parameters.
+- Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
 12. Forecasting the number of taxi orders for the next hour.
 13. Training the comment classification model.
 14. Processing photos of the buyer.
@@ -75,7 +77,9 @@ This directory is a portfolio of projects that I completed during my training at
 10. [Защита данных клиентов страховой компании.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/10th_project_protection_personal_data)
 - Проект представляет собой разработку метода шифрования данных.
 - Stack: Python, Pandas, Numpy, Scikit-learn.
-11. Построение модели определения стоимости автомобиля.
+11. [Построение модели определения стоимости автомобиля.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/11th_project_auto)
+- Проект представляет собой разработку модели предсказания стоимости автомобилей по их его параметрам.
+- Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
 12. Прогнозирование количества заказов такси на следующий час.
 13. Обучение модели классификации комментариев.
 14. Обработка фотографий покупателя.
