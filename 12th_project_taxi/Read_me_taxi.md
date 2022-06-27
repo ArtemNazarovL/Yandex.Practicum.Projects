@@ -11,7 +11,7 @@ maximize profit. To do this, we will build a machine learning model.
 
 - Step 1. Preparation.
 - Step 2. Analysis.
-- Step 3. Training.
+- Step 3. Training.\
 Clause 3.1. Regression.\
 Clause 3.2. Random forest.\
 Clause 3.3. Gradient boosting.
@@ -39,7 +39,7 @@ Completed.
 
 - Шаг 1. Подготовка.
 - Шаг 2. Анализ.
-- Шаг 3. Обучение.
+- Шаг 3. Обучение.\
 Пункт 3.1. Регрессия.\
 Пункт 3.2. Случайный лес.\
 Пункт 3.3. Градиентный бустинг.
