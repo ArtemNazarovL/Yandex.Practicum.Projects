@@ -21,7 +21,9 @@ This directory is a portfolio of projects that I completed during my training at
 6. [Classification of telecom company clients.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/6th_project_tariff_recomendation)
 - The project is the construction of a classification model for the selection of mobile operator tariffs for its subscribers.
 - Stack: Python, Pandas, Matplotlib, Scikit-learn.
-7. Forecasting the outflow of the Bank's client.
+7. [Forecasting the outflow of the Bank's client.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/7th_project_customers_charn)
+- The project is the construction of a classification model to predict the behavior of bank customers in the future: whether they will stay or leave.
+- Stack: Python, Pandas, Matplotlib, Scikit-learn.
 8. Determination of the most profitable region for oil production.
 9. Study of the technological process of gold purification.
 10. Protection of data of clients of the insurance company.
@@ -55,7 +57,9 @@ This directory is a portfolio of projects that I completed during my training at
 6. [Классификаиция клиентов телеком компании.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/6th_project_tariff_recomendation)
 - Проект представляет собой построение модели классификации для побора тарифов мобильного оператора для его абонентов.
 - Стек: Python, Pandas, Matplotlib, Scikit-learn.
-7. Прогнозирование оттока клиента Банка.
+7. [Прогнозирование оттока клиента Банка.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/7th_project_customers_charn)
+- Проект представляет собой построение модели классификации для предсказания поведения клиентов банка в будующем: останутся ли они или уйдут.
+- Стек: Python, Pandas, Matplotlib, Scikit-learn.
 8. Определение наиболее выгодного региона нефтедобычи.
 9. Исследование технологического процесса очистки золота.
 10. Защита данных клиентов страховой компании.
