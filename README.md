@@ -29,7 +29,7 @@ This directory is a portfolio of projects that I completed during my training at
 - Stack: Python, Pandas, Bootstrap.
 9. [Study of the technological process of gold purification.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/9th_project_gold_mining)
 - The project is a selection of the most appropriate machine learning model for predicting the recovery rate of gold from ore.
-- Stack: Python, Pandas, Bootstrap.
+- Stack: Python, Pandas, Matplotlib, Numpy, Scikit-learn.
 10. Protection of data of clients of the insurance company.
 11. Building a model for determining the cost of a car.
 12. Forecasting the number of taxi orders for the next hour.
