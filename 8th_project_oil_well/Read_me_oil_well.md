@@ -16,6 +16,26 @@ The profit is considered as the sum of the profits of the selected deposits.
 #### Skills and tools: Python, Pandas, Bootstrap.
 #### Project objectives: to select a location for the development of an oil field.
 
+### Contents:
+- Step 0. Description of the project.
+- Step 1. Loading and preparing data.
+- Step 2: Train and validate the model.\
+Item A. Training the model.\
+Point B. Analysis of the model.
+- Step 3. Preparation for profit calculation.
+- Step 4. Calculation of profit and risks. \
+Item A. Region 0.\
+Item B. Region 1.\
+Item C. Region 2.
+
+### Result of work:
+- A regression model was prepared to obtain target attribute predictions for three variables.
+- Using the bootstrap model and technique, the average expected profit for each region was determined, as well as the confidence interval and the risk of loss.
+- The risk of loss was below the threshold only in region 1 with an average expected profit of 498769860 rubles.
+
+### Project status:
+Completed.
+
 # Выбор локации для скважины
 
 Перед нами стоит задача - выбрать место для бурения новой нефтяной скважины.
