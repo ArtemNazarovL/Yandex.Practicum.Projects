@@ -45,7 +45,10 @@ This directory is a portfolio of projects that I completed during my training at
 14. [Processing photos of the buyer.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/14th_project_photo)
 - The project is the development of a neural network for determining the age of people from photographs.
 - Stack: Python, Keras.
-15. Final project. Gold mining industry.
+15. [Final project. Gold mining industry.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/15th_project_steel)
+- The project is an exploratory analysis of data from the steel production process and the development of a model for predicting the temperature of steel at different stages
+production.
+- Stack: Pandas, Matplotlib, Scikit-learn, Statsmodels, Catboost.
 
 
 # Проекты Яндекс.Практикум.
@@ -95,4 +98,7 @@ This directory is a portfolio of projects that I completed during my training at
 14. [Обработка фотографий покупателя.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/14th_project_photo)
 - Проект представляет собой разработку нейроной сети для определение возраста людей по фотографии.
 - Stack: Python, Keras.
-15. Финальный проект. Золотодобывающая промышленность.
+15. [Финальный проект. Золотодобывающая промышленность.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/15th_project_steel)
+- Проект представляет собой исследовательский анализ данных процесса производства стали и разработку модели для предсказания температуры стали на разных этапах
+происзводства.
+- Stack: Pandas, Matplotlib, Scikit-learn, Statsmodels, Catboost.
