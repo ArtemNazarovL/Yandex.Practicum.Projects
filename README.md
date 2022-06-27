@@ -12,7 +12,9 @@ This directory is a portfolio of projects that I completed during my training at
 3. [Sale of apartments in St. Petersburg - analysis of the real estate market.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/3rd_project_real_estate)
 - The project is an analysis of the influence of the characteristics of real estate objects on their price.
 - Stack: Python, Pandas, Matplotlib.
-4. Determination of a favorable tariff for a telecom company.
+4. [Determination of a favorable tariff for a telecom company.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/4th_project_mobile_provider)
+- The project is an analysis of the use of mobile provider tariffs by its users.
+- Stack: Python, Pandas, Matplotlib.
 5. Analysis of sales of computer games.
 6. Classification of telecom company clients.
 7. Forecasting the outflow of the Bank's client.
@@ -40,7 +42,9 @@ This directory is a portfolio of projects that I completed during my training at
 3. [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/3rd_project_real_estate)
 - Проект представляет собой анализ влияния характеристик объектов недвижимости на их цену.
 - Стек: Python, Pandas, Matplotlib.
-4. Определение выгодного тарифа для телеком компании.
+4. [Определение выгодного тарифа для телеком компании.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/4th_project_mobile_provider)
+- Проект представляет собой анализ использования тарифов мобильного провайдера его пользователями.
+- Стек: Python, Pandas, Matplotlib.
 5. Анализ продаж компьютерных игры.
 6. Классификаиция клиентов телеком компании.
 7. Прогнозирование оттока клиента Банка.
