@@ -26,6 +26,7 @@ the center, airport, parks or water bodies).
 - Step 5. Conclusion.
 
 ### Result of work:
+the following has been clarified:
 - In general, the price of an apartment is affected by: area, location, floor, number of parks and ponds, number of rooms and ceiling height.
 - In the center of the price, area and ceilings more. And the influence of the place, the height of the ceiling and the parks and reservoirs around is reduced.
 - The top floor can be more expensive for expensive apartments due to the view and possible access to the roof.
@@ -64,6 +65,7 @@ Completed.
 
 
 ### Результат работы:
+Установлено следующее:
 - В целом на цену квартиры влияют: площадь, место, этаж, количество парков и водоемов, количество комнат и высота потолков.
 - В центре цены, площади и потолки больше. А влияние места, высоты потолка и парков и водоемов вокруг снижается.
 - Последний этаж может быть дороже для дорогих квартир из-за вида и возможного доступа к крыше.
