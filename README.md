@@ -42,7 +42,9 @@ This directory is a portfolio of projects that I completed during my training at
 13. [Training the comment classification model.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/13th_project_comments)
 - The project is the development of a comment classification model.
 - Stack: Python, Pandas, BERT, nltk, tf-idf.
-14. Processing photos of the buyer.
+14. [Processing photos of the buyer.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/14th_project_photo)
+- The project is the development of a neural network for determining the age of people from photographs.
+- Stack: Python, Keras.
 15. Final project. Gold mining industry.
 
 
@@ -90,5 +92,7 @@ This directory is a portfolio of projects that I completed during my training at
 13. [Обучение модели классификации комментариев.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/13th_project_comments)
 - Проект представляет собой разработку модели классификации комментариев.
 - Stack: Python, Pandas, BERT, nltk, tf-idf.
-14. Обработка фотографий покупателя.
+14. [Обработка фотографий покупателя.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/14th_project_photo)
+- Проект представляет собой разработку нейроной сети для определение возраста людей по фотографии.
+- Stack: Python, Keras.
 15. Финальный проект. Золотодобывающая промышленность.
