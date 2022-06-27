@@ -18,7 +18,9 @@ This directory is a portfolio of projects that I completed during my training at
 5. [Analysis of sales of computer games.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/5th_project_games)
 - The project is an analysis of the computer games market.
 - Stack: Python, Pandas, Matplotlib, Scipy, Numpy.
-6. Classification of telecom company clients.
+6. [Classification of telecom company clients.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/6th_project_tariff_recomendation)
+- The project is the construction of a classification model for the selection of mobile operator tariffs for its subscribers.
+- Stack: Python, Pandas, Matplotlib, Scikit-learn.
 7. Forecasting the outflow of the Bank's client.
 8. Determination of the most profitable region for oil production.
 9. Study of the technological process of gold purification.
@@ -50,7 +52,9 @@ This directory is a portfolio of projects that I completed during my training at
 5. [Анализ продаж компьютерных игры.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/5th_project_games)
 - Проект представляет собой анализ рынка компьютерных игр.
 - Стек: Python, Pandas, Matplotlib, Scipy, Numpy.
-6. Классификаиция клиентов телеком компании.
+6. [Классификаиция клиентов телеком компании.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/6th_project_tariff_recomendation)
+- Проект представляет собой построение модели классификации для побора тарифов мобильного оператора для его абонентов.
+- Стек: Python, Pandas, Matplotlib, Scikit-learn.
 7. Прогнозирование оттока клиента Банка.
 8. Определение наиболее выгодного региона нефтедобычи.
 9. Исследование технологического процесса очистки золота.
