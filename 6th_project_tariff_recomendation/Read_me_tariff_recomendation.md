@@ -10,6 +10,28 @@ It is necessary to build a model with a maximum accuracy value (at least 75%).
 ### Skills and tools: Python, Pandas, Matplotlib, Scikit-learn.
 ### Project objectives: to offer the client a tariff based on the data.
 
+## Work plan:
+
+- Step 1. Examine the file.
+- Step 2. Splitting into samples.
+- Step 3. Research models.\
+Point A. Tree.\
+Point B. Random forest.\
+Point C. Logistic regression.
+- Step 3. Checking the model on the test set.\
+Point A. Tree.\
+Point B. Random forest.\
+Point C. Logistic regression.
+- Step 7. Checking models for adequacy.
+
+### Result of work:
+- We have achieved the desired result with all three models.
+- Worst of all showed itself regression. Need to figure it out.
+- The optimal solution, from the presented models, is a tree. It is the fastest and is not much inferior to the random forest.
+
+### Project status:
+Completed.
+
 # Рекомендация тарифов.
 
 Многие клиенты сотового оператора пользуются архивными тарифами. Оператор хочет создать систему, которая сможет анализировать поведение клиентов и предложить им новые 
