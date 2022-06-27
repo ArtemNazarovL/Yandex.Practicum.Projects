@@ -6,10 +6,10 @@ fraudulent activity.
 For each observation, two types of data are available: the first is entered by the user, the second is obtained automatically from cartographic data (distance to 
 the center, airport, parks or water bodies).
 
-Fields of activity: Internet services, ad platforms.\
-Activities: marketing analyst, fraud analyst, data analyst.\
-Skills and tools: Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing.\
-Project objectives: to determine the market value of real estate objects and typical parameters of apartments based on Yandex.Realty data.
+### Fields of activity: Internet services, ad platforms.\
+### Activities: marketing analyst, fraud analyst, data analyst.\
+### Skills and tools: Python, Pandas, Matplotlib, exploratory data analysis, data visualization, data preprocessing.\
+### Project objectives: to determine the market value of real estate objects and typical parameters of apartments based on Yandex.Realty data.
 
 ## Research plan.
 
@@ -25,6 +25,15 @@ Project objectives: to determine the market value of real estate objects and typ
 - Point F. Studying the parameters of apartments located in the center.
 - Step 5. Conclusion.
 
+### Result of work:
+- In general, the price of an apartment is affected by: area, location, floor, number of parks and ponds, number of rooms and ceiling height.
+- In the center of the price, area and ceilings more. And the influence of the place, the height of the ceiling and the parks and reservoirs around is reduced.
+- The top floor can be more expensive for expensive apartments due to the view and possible access to the roof.
+- The city center is a radius of 4 km from the conditional center.
+
+### Project status:
+Completed.
+
 # Исследование объявлений о продаже квартир.
 Исследование объявлений о продаже квартир
 Сервисом Яндекс.Недвижимость предоставленны данные о продаже квартир в Санкт-Петербурге и ближайших к нему населенных пунктов за несколько лет. 
@@ -34,10 +43,10 @@ Project objectives: to determine the market value of real estate objects and typ
 Для каждого наблюдения доступны два вида данных: первый внесен пользователем, второй - получен на основе картографических данных автоматически (растояние до центр, 
 аэропорта, парков или водоемов).
 
-Сферы деятельности: интернет-сервисы, площадки объявлений.\
-Направления деятельности: маркетинг аналитик, fraud-аналитик, data analyst.\
-Навыки и инструменты: Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных.\
-Задачи проекта: определить рыночную стоимость объектов недвижимости и типичные параметры квартир на основе данных Яндекс.Недвижимость.
+### Сферы деятельности: интернет-сервисы, площадки объявлений.\
+### Направления деятельности: маркетинг аналитик, fraud-аналитик, data analyst.\
+### Навыки и инструменты: Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных.\
+### Задачи проекта: определить рыночную стоимость объектов недвижимости и типичные параметры квартир на основе данных Яндекс.Недвижимость.
 
 ## План исследования.
 
@@ -52,3 +61,13 @@ Project objectives: to determine the market value of real estate objects and typ
 - Пункт E. Поиск области центра.
 - Пункт F. Изучение параметров квартир расположенных в центре.
 - Шаг 5. Вывод.
+
+
+### Результат работы:
+- В целом на цену квартиры влияют: площадь, место, этаж, количество парков и водоемов, количество комнат и высота потолков.
+- В центре цены, площади и потолки больше. А влияние места, высоты потолка и парков и водоемов вокруг снижается.
+- Последний этаж может быть дороже для дорогих квартир из-за вида и возможного доступа к крыше.
+- Центр города - это радиус 4 км от условного центра.
+
+### Статус проекта:
+Завершен.
