@@ -15,7 +15,9 @@ This directory is a portfolio of projects that I completed during my training at
 4. [Determination of a favorable tariff for a telecom company.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/4th_project_mobile_provider)
 - The project is an analysis of the use of mobile provider tariffs by its users.
 - Stack: Python, Pandas, Matplotlib.
-5. Analysis of sales of computer games.
+5. [Analysis of sales of computer games.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/5th_project_games)
+- The project is an analysis of the computer games market.
+- Stack: Python, Pandas, Matplotlib, Scipy, Numpy.
 6. Classification of telecom company clients.
 7. Forecasting the outflow of the Bank's client.
 8. Determination of the most profitable region for oil production.
@@ -45,7 +47,9 @@ This directory is a portfolio of projects that I completed during my training at
 4. [Определение выгодного тарифа для телеком компании.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/4th_project_mobile_provider)
 - Проект представляет собой анализ использования тарифов мобильного провайдера его пользователями.
 - Стек: Python, Pandas, Matplotlib.
-5. Анализ продаж компьютерных игры.
+5. [Анализ продаж компьютерных игры.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/5th_project_games)
+- Проект представляет собой анализ рынка компьютерных игр.
+- Стек: Python, Pandas, Matplotlib, Scipy, Numpy.
 6. Классификаиция клиентов телеком компании.
 7. Прогнозирование оттока клиента Банка.
 8. Определение наиболее выгодного региона нефтедобычи.
