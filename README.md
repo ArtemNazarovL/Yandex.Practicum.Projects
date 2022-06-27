@@ -27,7 +27,9 @@ This directory is a portfolio of projects that I completed during my training at
 8. [Determination of the most profitable region for oil production.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/8th_project_oil_well)
 - The project the construction of a regression model to predict the volume of oil in the region and the calculate of average expected profit using the Bootstrap technique.
 - Stack: Python, Pandas, Bootstrap.
-9. Study of the technological process of gold purification.
+9. [Study of the technological process of gold purification.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/9th_project_gold_mining)
+- The project is a selection of the most appropriate machine learning model for predicting the recovery rate of gold from ore.
+- Stack: Python, Pandas, Bootstrap.
 10. Protection of data of clients of the insurance company.
 11. Building a model for determining the cost of a car.
 12. Forecasting the number of taxi orders for the next hour.
@@ -65,7 +67,9 @@ This directory is a portfolio of projects that I completed during my training at
 8. [Определение наиболее выгодного региона нефтедобычи.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/8th_project_oil_well)
 - Проект представляет собой построение модели регрессии для пронозирования объема нефти в регоне и рассчет средне-ожидаемой прибыли при помощи техники Bootstrap.
 - Стек: Python, Pandas, Bootstrap.
-9. Исследование технологического процесса очистки золота.
+9. [Исследование технологического процесса очистки золота.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/9th_project_gold_mining)
+- Проект представляет собой подбор наиболее подходящей модели машинного обучения для предсказанаия коэффициента восстановления золота из руды.
+- Stack: Python, Pandas, Matplotlib, Numpy, Scikit-learn.
 10. Защита данных клиентов страховой компании.
 11. Построение модели определения стоимости автомобиля.
 12. Прогнозирование количества заказов такси на следующий час.
