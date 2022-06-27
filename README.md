@@ -39,7 +39,9 @@ This directory is a portfolio of projects that I completed during my training at
 12. [Forecasting the number of taxi orders for the next hour.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/12th_project_taxi)
 - Проект представляет собой разработку модели предсказания количества заказов такси.
 - Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
-13. Training the comment classification model.
+13. [Training the comment classification model.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/13th_project_comments)
+- The project is the development of a comment classification model.
+- Stack: Python, Pandas, BERT, nltk, tf-idf.
 14. Processing photos of the buyer.
 15. Final project. Gold mining industry.
 
@@ -85,6 +87,8 @@ This directory is a portfolio of projects that I completed during my training at
 12. [Прогнозирование количества заказов такси на следующий час.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/12th_project_taxi)
 - Проект представляет собой разработку модели предсказания количества заказов такси.
 - Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
-13. Обучение модели классификации комментариев.
+13. [Обучение модели классификации комментариев.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/13th_project_comments)
+- Проект представляет собой разработку модели классификации комментариев.
+- Stack: Python, Pandas, BERT, nltk, tf-idf.
 14. Обработка фотографий покупателя.
 15. Финальный проект. Золотодобывающая промышленность.
