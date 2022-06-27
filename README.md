@@ -4,6 +4,8 @@ This directory is a portfolio of projects that I completed during my training at
 
 ## Content:
 1. [Research of Yandex.Music service data — comparison of users of two cities.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/1st_project_music_research)
+- The project is an analysis of user preferences for listening to music on Mondays, Wednesdays and Fridays in Moscow and St. Petersburg.
+- Stack: Python, Pandas.
 2. Study of the reliability of borrowers - analysis of bank data.
 3. Sale of apartments in St. Petersburg - analysis of the real estate market.
 4. Determination of a favorable tariff for a telecom company.
@@ -26,6 +28,8 @@ This directory is a portfolio of projects that I completed during my training at
 
 ## Содержание:
 1. [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/1st_project_music_research)
+- Проект представляет собой анализ пользовтельских предпочтений прослушивания музыки по Понедельникам, Средам и Пятницам в Москве и Санкт-Петербурге.
+- Стек: Python, Pandas.
 2. Исследование надёжности заёмщиков — анализ банковских данных.
 3. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.
 4. Определение выгодного тарифа для телеком компании.
