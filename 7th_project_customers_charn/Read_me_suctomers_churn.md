@@ -9,13 +9,59 @@ up to 0.59. It is also necessary to plot the AUC-ROC curve and compare it with t
 ### Skills and tools: Python, Pandas, Scikit-learn.
 ### Project objectives: to determine whether the client will leave the bank, based on the data.
 
+### Table of contents.
+- Step 1. Data preparation.\
+1.1. Loading data and getting to know it for the first time.\
+1.2. Data preparation.
+- Step 2. Study of the problem.\
+2.1. Decision tree.\
+2.2. Random forest.\
+2.2. logistic regression.
+- Step 3. Fighting imbalance.\
+3.1. Class weighting.\
+3.2. Upsampling.\
+3.3. downsampling.
+- Step 4. Model testing.
+
+### Result of work:
+- We studied and prepared the data;
+- Conducted a test of models without class balancing and chose a random forest as a working model;
+- Conducted a test of balancing methods for training models and chose a class weighting method;
+- We tested the model on a test sample and got a result slightly higher than the required one - 0.63 (F-measure);
+- Gave recommendations on the use of the model (setting the cut-off threshold at 0.38).
+
+### Project status:
+Completed.
+
 # Отток клиентов
 
 Каждый месяц , в небольших количествах, из банка банка уходят клиенты. Маркетологи проанализировав ситуацию, поняли, что сохранять клиентов дешевле, чем привлекать новых.
 Необходимо построить модель, на основе исторических данных, способную предсказать уйдет ли клиент. Используемая метрика: F1-мера, которую нужно довести как минимум 
 до 0.59. Также необходимо построить AUC-ROC кривую и сравнить ее с F-1 мерой.
 
+### Table of contents.
+- Step 1. Data preparation.\
+1.1. Loading data and getting to know it for the first time.\
+1.2. Data preparation.
+- Step 2. Study of the problem.\
+2.1. Decision tree.\
+2.2. Random forest.\
+2.2. logistic regression.
+- Step 3. Fighting imbalance.\
+3.1. Class weighting.\
+3.2. Upsampling.\
+3.3. downsampling.
+- Step 4. Model testing.
 
+### Result of work:
+- We studied and prepared the data;
+- Conducted a test of models without class balancing and chose a random forest as a working model;
+- Conducted a test of balancing methods for training models and chose a class weighting method;
+- We tested the model on a test sample and got a result slightly higher than the required one - 0.63 (F-measure);
+- Gave recommendations on the use of the model (setting the cut-off threshold at 0.38).
+
+### Project status:
+Completed.
 ### Сферы деятельности: бизнес, инвестиции, банковская сфера, кредитование.
 ### Направление деятельности: Машинное обучение, классификация.
 ### Навыки и инструменты: Python, Pandas, Scikit-learn.
