@@ -17,6 +17,11 @@
 
 4. Summary.
 
+### Result of work:
+The study found that residents of Moscow and St. Petersburg listen to music differently: the former are more active on Monday and Friday, while the latter, on the contrary, listen to more music on Wednesday. However, both groups listen to similar music at the beginning and end of the week. In general, genre preferences in Moscow and St. Petersburg do not differ too much from each other. Russian popular music is widespread in Moscow, jazz in St. Petersburg.
+
+### Project status:
+Completed.
 
 # Исследование музыкальных предпочтений в зависимости от дня недели и времени суток в Москве и Санкт-Петербурге.
 ## Чем отличается музыка, которая играет по дороге на работу в понедельник утром от той, что играет в среду или в конце рабочей недели?
@@ -36,3 +41,9 @@
 > Жители Москвы и Санкт-Петербурга слушают разную музыку?
 
 4. Подведение итогов.
+
+### Результат работы:
+В ходе исследования было установлено, что жители Москвы и Санкт-Петербурга слушают музыку по разному: первые более активны в понедельник и пятницу, вторые, напротив, слушают больше музыки в среду. Однако обе группы слушают похожую музыку в начале и в конце недели. В целом жанровые предпочтения в Москве и Санкт-Петербурге не слишком отличаются друг от друга. Русская популярную музыка распространнена в Москве, в Петербурге — джаз.
+
+### Статус проекта:
+Завершен.
