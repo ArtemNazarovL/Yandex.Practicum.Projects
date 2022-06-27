@@ -39,20 +39,6 @@ Completed.
 Необходимо построить модель, на основе исторических данных, способную предсказать уйдет ли клиент. Используемая метрика: F1-мера, которую нужно довести как минимум 
 до 0.59. Также необходимо построить AUC-ROC кривую и сравнить ее с F-1 мерой.
 
-### Table of contents.
-- Step 1. Data preparation.\
-1.1. Loading data and getting to know it for the first time.\
-1.2. Data preparation.
-- Step 2. Study of the problem.\
-2.1. Decision tree.\
-2.2. Random forest.\
-2.2. logistic regression.
-- Step 3. Fighting imbalance.\
-3.1. Class weighting.\
-3.2. Upsampling.\
-3.3. downsampling.
-- Step 4. Model testing.
-
 ### Result of work:
 - We studied and prepared the data;
 - Conducted a test of models without class balancing and chose a random forest as a working model;
