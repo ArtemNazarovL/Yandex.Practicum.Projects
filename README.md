@@ -24,7 +24,9 @@ This directory is a portfolio of projects that I completed during my training at
 7. [Forecasting the outflow of the Bank's client.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/7th_project_customers_charn)
 - The project is the construction of a classification model to predict the behavior of bank customers in the future: whether they will stay or leave.
 - Stack: Python, Pandas, Matplotlib, Scikit-learn.
-8. Determination of the most profitable region for oil production.
+8. [Determination of the most profitable region for oil production.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/8th_project_oil_well)
+- The project the construction of a regression model to predict the volume of oil in the region and the calculate of average expected profit using the Bootstrap technique.
+- Stack: Python, Pandas, Bootstrap.
 9. Study of the technological process of gold purification.
 10. Protection of data of clients of the insurance company.
 11. Building a model for determining the cost of a car.
@@ -60,7 +62,9 @@ This directory is a portfolio of projects that I completed during my training at
 7. [Прогнозирование оттока клиента Банка.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/7th_project_customers_charn)
 - Проект представляет собой построение модели классификации для предсказания поведения клиентов банка в будующем: останутся ли они или уйдут.
 - Стек: Python, Pandas, Matplotlib, Scikit-learn.
-8. Определение наиболее выгодного региона нефтедобычи.
+8. [Определение наиболее выгодного региона нефтедобычи.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/8th_project_oil_well)
+- Проект представляет собой построение модели регрессии для пронозирования объема нефти в регоне и рассчет средне-ожидаемой прибыли при помощи техники Bootstrap.
+- Стек: Python, Pandas, Bootstrap.
 9. Исследование технологического процесса очистки золота.
 10. Защита данных клиентов страховой компании.
 11. Построение модели определения стоимости автомобиля.
