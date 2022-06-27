@@ -3,7 +3,7 @@
 This directory is a portfolio of projects that I completed during my training at Yandex.Practice. Each folder contains one project saved in ***ipnyb*** format and a ***read me*** document with a brief description of the task and a list of applied skills. Each project describes the logic of its implementation in two languages: Russian and English.
 
 ## Content:
-1. Research of Yandex.Music service data — comparison of users of two cities.
+1. [Research of Yandex.Music service data — comparison of users of two cities.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/1st_project_music_research)
 2. Study of the reliability of borrowers - analysis of bank data.
 3. Sale of apartments in St. Petersburg - analysis of the real estate market.
 4. Determination of a favorable tariff for a telecom company.
