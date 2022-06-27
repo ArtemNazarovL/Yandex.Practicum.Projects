@@ -39,15 +39,6 @@ Completed.
 Необходимо построить модель, на основе исторических данных, способную предсказать уйдет ли клиент. Используемая метрика: F1-мера, которую нужно довести как минимум 
 до 0.59. Также необходимо построить AUC-ROC кривую и сравнить ее с F-1 мерой.
 
-### Result of work:
-- We studied and prepared the data;
-- Conducted a test of models without class balancing and chose a random forest as a working model;
-- Conducted a test of balancing methods for training models and chose a class weighting method;
-- We tested the model on a test sample and got a result slightly higher than the required one - 0.63 (F-measure);
-- Gave recommendations on the use of the model (setting the cut-off threshold at 0.38).
-
-### Project status:
-Completed.
 ### Сферы деятельности: бизнес, инвестиции, банковская сфера, кредитование.
 ### Направление деятельности: Машинное обучение, классификация.
 ### Навыки и инструменты: Python, Pandas, Scikit-learn.
