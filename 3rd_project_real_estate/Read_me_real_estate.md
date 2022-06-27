@@ -26,7 +26,7 @@ the center, airport, parks or water bodies).
 - Step 5. Conclusion.
 
 ### Result of work:
-the following has been clarified:
+The following has been clarified:
 - In general, the price of an apartment is affected by: area, location, floor, number of parks and ponds, number of rooms and ceiling height.
 - In the center of the price, area and ceilings more. And the influence of the place, the height of the ceiling and the parks and reservoirs around is reduced.
 - The top floor can be more expensive for expensive apartments due to the view and possible access to the roof.
