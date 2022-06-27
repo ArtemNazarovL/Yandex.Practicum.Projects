@@ -30,7 +30,9 @@ This directory is a portfolio of projects that I completed during my training at
 9. [Study of the technological process of gold purification.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/9th_project_gold_mining)
 - The project is a selection of the most appropriate machine learning model for predicting the recovery rate of gold from ore.
 - Stack: Python, Pandas, Matplotlib, Numpy, Scikit-learn.
-10. Protection of data of clients of the insurance company.
+10. [Protection of data of clients of the insurance company.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/10th_project_protection_personal_data)
+- The project is a development of data encryption method.
+- Stack: Python, Pandas, Numpy, Scikit-learn.
 11. Building a model for determining the cost of a car.
 12. Forecasting the number of taxi orders for the next hour.
 13. Training the comment classification model.
@@ -70,7 +72,9 @@ This directory is a portfolio of projects that I completed during my training at
 9. [Исследование технологического процесса очистки золота.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/9th_project_gold_mining)
 - Проект представляет собой подбор наиболее подходящей модели машинного обучения для предсказанаия коэффициента восстановления золота из руды.
 - Stack: Python, Pandas, Matplotlib, Numpy, Scikit-learn.
-10. Защита данных клиентов страховой компании.
+10. [Защита данных клиентов страховой компании.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/10th_project_protection_personal_data)
+- Проект представляет собой разработку метода шифрования данных.
+- Stack: Python, Pandas, Numpy, Scikit-learn.
 11. Построение модели определения стоимости автомобиля.
 12. Прогнозирование количества заказов такси на следующий час.
 13. Обучение модели классификации комментариев.
