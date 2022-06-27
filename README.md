@@ -36,7 +36,9 @@ This directory is a portfolio of projects that I completed during my training at
 11. [Building a model for determining the cost of a car.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/11th_project_auto)
 - The project is the development of a model for predicting the cost of cars according to their parameters.
 - Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
-12. Forecasting the number of taxi orders for the next hour.
+12. [Forecasting the number of taxi orders for the next hour.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/12th_project_taxi)
+- Проект представляет собой разработку модели предсказания количества заказов такси.
+- Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
 13. Training the comment classification model.
 14. Processing photos of the buyer.
 15. Final project. Gold mining industry.
@@ -80,7 +82,9 @@ This directory is a portfolio of projects that I completed during my training at
 11. [Построение модели определения стоимости автомобиля.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/11th_project_auto)
 - Проект представляет собой разработку модели предсказания стоимости автомобилей по их его параметрам.
 - Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
-12. Прогнозирование количества заказов такси на следующий час.
+12. [Прогнозирование количества заказов такси на следующий час.](https://github.com/ArtemNazarovL/Yandex.Practicum.Projects/tree/main/12th_project_taxi)
+- Проект представляет собой разработку модели предсказания количества заказов такси.
+- Stack: Python, Pandas, Statsmodel, Numpy, Scikit-learn.
 13. Обучение модели классификации комментариев.
 14. Обработка фотографий покупателя.
 15. Финальный проект. Золотодобывающая промышленность.
