@@ -22,7 +22,7 @@ Clause 2.1. Let's see how the concentration of metals (Au, Ag, Pb) changes at di
 Clause 2.2. Let us compare the size distributions of raw material granules on the training and test samples.\
 Clause 2.3. We investigate the total concentration of all substances at different stages: in raw materials, in rough and final concentrates.
 - Step 3. Model\
-Clause 3.1. sMAPE function.\ 
+Clause 3.1. sMAPE function.
 Clause 3.2. Training and validation of models.
 
 ### Result of work:
