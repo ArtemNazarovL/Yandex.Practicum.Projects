@@ -18,7 +18,7 @@ Clause 1.2. Data processing.
 - Step 2. Model training.\
 Clause 2.1. Regression.\
 Clause 2.2. Random forest.\
-Clause 2.3. Gradient boosting.\
+Clause 2.3. Gradient boosting.
 - Step 3. Model analysis.\
 Clause 3.1. Regression.\
 Clause 3.2. Random forest.\
@@ -53,7 +53,7 @@ Completed.
 Пункт 2.1. Регрессия.\
 Пункт 2.2. Случайный лес.\
 Пункт 2.3. Градиентный бустинг.\
-- Шаг 3. Анализ моделей.\
+- Шаг 3. Анализ моделей.
 Пункт 3.1. Регрессия.\
 Пункт 3.2. Случайный лес.\
 Пункт 3.3. Градиентный бустинг.
